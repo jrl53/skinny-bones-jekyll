@@ -49,12 +49,12 @@ Al cocinar la carne es importante darles vuelta solamente una vez para que no se
 Una vez cocinada la carne cortarla en tiritas de 1.5 cm de grosor. Poner aparte en su jugo.
 
 <figure class="half">
-    <a href="/images/post_lomito_1.jpg"><img src="/images/post_lomito_1.jpg"></a>
-    <a href="/images/post_lomito_2.jpg"><img src="/images/post_lomito_2.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_1.jpg"><img src="{{ site.url }}/images/post_lomito_1.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_2.jpg"><img src="{{ site.url }}/images/post_lomito_2.jpg"></a>
 </figure>
 
 <figure>
-    <a href="/images/post_lomito_3.jpg"><img src="/images/post_lomito_3.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_3.jpg"><img src="{{ site.url }}/images/post_lomito_3.jpg"></a>
     <figcaption>Ah no!</figcaption>
 </figure>
 
@@ -68,8 +68,8 @@ Las papas fritas de esta receta son las comunes y corrientes: cortar papas y ech
 {: .notice}
 
 <figure class="half">
-    <a href="/images/post_lomito_papas_1.jpg"><img src="/images/post_lomito_papas_1.jpg"></a>
-    <a href="/images/post_lomito_papas_2.jpg"><img src="/images/post_lomito_papas_2.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_papas_1.jpg"><img src="{{ site.url }}/images/post_lomito_papas_1.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_papas_2.jpg"><img src="{{ site.url }}/images/post_lomito_papas_2.jpg"></a>
 </figure>
 
 #### Salsa
@@ -81,19 +81,19 @@ Continuar condimentando con vinagre, comino (u orégano) y salsa china e inmedia
 Decorar con culantro fresco picado y servir con las papas fritas y arroz blanco. 
 
 <figure class="half">
-    <a href="/images/post_lomito_sarten_1.jpg"><img src="/images/post_lomito_sarten_1.jpg"></a>
-    <a href="/images/post_lomito_sarten_2.jpg"><img src="/images/post_lomito_sarten_2.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_sarten_1.jpg"><img src="{{ site.url }}/images/post_lomito_sarten_1.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_sarten_2.jpg"><img src="{{ site.url }}/images/post_lomito_sarten_2.jpg"></a>
 </figure>
 
 ### Impresiones finales
 
 <figure>
-    <a href="/images/post_lomito_final_1.jpg"><img src="/images/post_lomito_final_1.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_final_1.jpg"><img src="{{ site.url }}/images/post_lomito_final_1.jpg"></a>
     <figcaption>En la olla antes de servir</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/post_lomito_final_2.jpg"><img src="/images/post_lomito_final_2.jpg"></a>
+    <a href="{{ site.url }}/images/post_lomito_final_2.jpg"><img src="{{ site.url }}/images/post_lomito_final_2.jpg"></a>
     <figcaption>Listo!</figcaption>
 </figure>
 
