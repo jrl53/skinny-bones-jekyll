@@ -37,7 +37,7 @@ ads: false
 Mucha paciencia y dedicación, pues para lograr una textura limeña se deben mezclar las dos latas de leches en una olla de fondo grueso, constantemente removiendo con cuchara de palo, siempre a fuego lento y durante 1 hora. Empezará a espesar y estará listo cuando la cuchara deje huellas que permiten ver el fondo de la olla. 
 
 <figure>
-    <a href="/images/post_limena_cuchara.jpg"><img src="/images/post_limena_cuchara.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_cuchara.jpg"><img src="{{ site.url }}/images/post_limena_cuchara.jpg"></a>
     <figcaption>Esta es la parte dura</figcaption>
 </figure>
 
@@ -46,8 +46,8 @@ Por aparte, se deben batir las yemas de huevo. Deben agregarse y batirse en conj
 En una olla pequeña y por aparte, mezclar el azúcar con el Oporto o Jerez (no sin antes disfrutar de su aroma dulce y floral que conforme vaya hirviendo, dejará una estela abrumadora en toda la cocina). Dejar hervir hasta que se forme un almíbar que haga un hilo fino al dejarse caer de la cuchara. 
 
 <figure class="half">
-    <a href="/images/post_limena_3.jpg"><img src="/images/post_limena_3.jpg"></a>
-    <a href="/images/post_limena_1.jpg"><img src="/images/post_limena_1.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_3.jpg"><img src="{{ site.url }}/images/post_limena_3.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_1.jpg"><img src="{{ site.url }}/images/post_limena_1.jpg"></a>
     <figcaption>Usando el Porto</figcaption>
 </figure>
 
@@ -57,8 +57,8 @@ Y ahora listos para el merengue, poner <a href="https://www.youtube.com/watch?v=
 {: .notice}
 
 <figure class="half">
-    <a href="/images/post_limena_5.jpg"><img src="/images/post_limena_5.jpg"></a>
-    <a href="/images/post_limena_4.jpg"><img src="/images/post_limena_4.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_5.jpg"><img src="{{ site.url }}/images/post_limena_5.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_4.jpg"><img src="{{ site.url }}/images/post_limena_4.jpg"></a>
     <figcaption>Usando el Porto</figcaption>
 </figure>
 
@@ -66,12 +66,12 @@ Y ahora listos para el merengue, poner <a href="https://www.youtube.com/watch?v=
 El toque final: espolvorear canela molida, para no olvidar a Chabuca Grande y su “Flor de la Canela”, que terminen de dotar a estas copas limeñas de un sabor inigualable. 
 
 <figure>
-    <a href="/images/post_limena_refri.jpg"><img src="/images/post_limena_refri.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_refri.jpg"><img src="{{ site.url }}/images/post_limena_refri.jpg"></a>
     <figcaption>La refri de doña Giuly</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/post_limena_final.jpg"><img src="/images/post_limena_final.jpg"></a>
+    <a href="{{ site.url }}/images/post_limena_final.jpg"><img src="{{ site.url }}/images/post_limena_final.jpg"></a>
     <figcaption>Listo</figcaption>
 </figure>
 

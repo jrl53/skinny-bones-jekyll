@@ -38,9 +38,9 @@ Corte hacia lo largo en dos cada **ají** y remueva las semillas de cada uno de 
 {: .notice}
 
 <figure class="third">
-    <a href="/images/post_pastaji_1.jpg"> <img src="/images/post_pastaji_1.jpg"> </a>
-	<a href="/images/post_pastaji_2.jpg"> <img src="/images/post_pastaji_2.jpg"> </a>
-	<a href="/images/post_pastaji_3.jpg"> <img src="/images/post_pastaji_3.jpg"> </a>
+    <a href="{{ site.url }}/images/post_pastaji_1.jpg"> <img src="{{ site.url }}/images/post_pastaji_1.jpg"> </a>
+	<a href="{{ site.url }}/images/post_pastaji_2.jpg"> <img src="{{ site.url }}/images/post_pastaji_2.jpg"> </a>
+	<a href="{{ site.url }}/images/post_pastaji_3.jpg"> <img src="{{ site.url }}/images/post_pastaji_3.jpg"> </a>
 	<figcaption>Abriendo el ají con guantes</figcaption>
 </figure>
  <br>
@@ -48,20 +48,20 @@ Corte hacia lo largo en dos cada **ají** y remueva las semillas de cada uno de 
 **Hierva** en una ollita con agua y sal los 8 ajíes durante **10 minutos**. Una vez hervidos, vierta un chorrito de **aceite de oliva** en la licuadora y licúelos hasta que formen la contextura de una salsa. ¡Feliz ají!
 
 <figure class="half">
-    <a href="/images/post_pastaji_4.jpg"><img src="/images/post_pastaji_4.jpg"></a>
-    <a href="/images/post_pastaji_5.jpg"><img src="/images/post_pastaji_5.jpg"></a>
+    <a href="{{ site.url }}/images/post_pastaji_4.jpg"><img src="{{ site.url }}/images/post_pastaji_4.jpg"></a>
+    <a href="{{ site.url }}/images/post_pastaji_5.jpg"><img src="{{ site.url }}/images/post_pastaji_5.jpg"></a>
     <figcaption>Cuidado con el humo del ají mientras hierve, ¡a las personas sensibles los puede hacer llorar o toser!</figcaption>
 </figure>
 
 <figure class="third">
-    <a href="/images/post_pastaji_6.jpg"> <img src="/images/post_pastaji_6.jpg"> </a>
-	<a href="/images/post_pastaji_7.jpg"> <img src="/images/post_pastaji_7.jpg"> </a>
-	<a href="/images/post_pastaji_8.jpg"> <img src="/images/post_pastaji_8.jpg"> </a>
+    <a href="{{ site.url }}/images/post_pastaji_6.jpg"> <img src="{{ site.url }}/images/post_pastaji_6.jpg"> </a>
+	<a href="{{ site.url }}/images/post_pastaji_7.jpg"> <img src="{{ site.url }}/images/post_pastaji_7.jpg"> </a>
+	<a href="{{ site.url }}/images/post_pastaji_8.jpg"> <img src="{{ site.url }}/images/post_pastaji_8.jpg"> </a>
 
 </figure>
 
 <figure>
-    <a href="/images/post_pastaji_9.jpg"><img src="/images/post_pastaji_9.jpg"></a>
+    <a href="{{ site.url }}/images/post_pastaji_9.jpg"><img src="{{ site.url }}/images/post_pastaji_9.jpg"></a>
     <figcaption>Listo para servir</figcaption>
 </figure>
 

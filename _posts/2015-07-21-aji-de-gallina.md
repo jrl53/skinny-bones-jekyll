@@ -58,8 +58,8 @@ Esta receta es 2 en 1. Aquí aprenderán a hacer un buen caldo de pollo, nada de
 Poner en el agua todos los ingredientes del caldo, y cocer a fuego alto durante unas 3 horas. Una vez cocidas las pechugas, retirar del fuego y separar las pechugas del caldo. Dejar el caldo aparte pues servirá para la receta también.
 
 <figure class="half">
-    <a href="/images/post_aji_gallina-1.jpg"><img src="/images/post_aji_gallina-1.jpg"></a>
-    <a href="/images/post_aji_gallina-2.jpg"><img src="/images/post_aji_gallina-2.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-1.jpg"><img src="{{ site.url }}/images/post_aji_gallina-1.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-2.jpg"><img src="{{ site.url }}/images/post_aji_gallina-2.jpg"></a>
     <figcaption>El pollo se ve un poco pálido.. pero así es</figcaption>
 </figure>
 
@@ -68,11 +68,11 @@ Poner en el agua todos los ingredientes del caldo, y cocer a fuego alto durante 
 Facilito y rápido... Haga un par de cosas antes de comenzar con la base de la salsa: desmenuce las pechugas de pollo hasta formar tiritas del mismo y parta las nueces en cuatro o cinco pedazos cada una. 
 
 <figure>
-    <a href="/images/post_aji_gallina-3.jpg"><img src="/images/post_aji_gallina-3.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-3.jpg"><img src="{{ site.url }}/images/post_aji_gallina-3.jpg"></a>
 </figure>
 
 <figure>
-    <a href="/images/post_aji_gallina-4.jpg"><img src="/images/post_aji_gallina-4.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-4.jpg"><img src="{{ site.url }}/images/post_aji_gallina-4.jpg"></a>
 </figure>
 
 Asimismo, parta en pedazos pequeños el pan cuadrado en un bowl y remójelo con la lata de leche evaporada hasta que forme una pasta. Licuar la pasta de pan y leche en la licuadora para que se convierta en el líquido base de nuestra salsa. 
@@ -81,15 +81,15 @@ Asimismo, parta en pedazos pequeños el pan cuadrado en un bowl y remójelo con 
 {: .notice}
 
 <figure class="third">
-    <a href="/images/post_aji_gallina-5.jpg"><img src="/images/post_aji_gallina-5.jpg"></a>
-    <a href="/images/post_aji_gallina-6.jpg"><img src="/images/post_aji_gallina-6.jpg"></a>
-    <a href="/images/post_aji_gallina-7.jpg"><img src="/images/post_aji_gallina-7.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-5.jpg"><img src="{{ site.url }}/images/post_aji_gallina-5.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-6.jpg"><img src="{{ site.url }}/images/post_aji_gallina-6.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-7.jpg"><img src="{{ site.url }}/images/post_aji_gallina-7.jpg"></a>
     
 </figure>
 
 <figure class="half">
-    <a href="/images/post_aji_gallina-8.jpg"><img src="/images/post_aji_gallina-8.jpg"></a>
-    <a href="/images/post_aji_gallina-9.jpg"><img src="/images/post_aji_gallina-9.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-8.jpg"><img src="{{ site.url }}/images/post_aji_gallina-8.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-9.jpg"><img src="{{ site.url }}/images/post_aji_gallina-9.jpg"></a>
    
 </figure>
 
@@ -100,14 +100,14 @@ Añádele la mezcla de pan mojado y ajuste la sal y pimienta. Poco a poco empeza
 Es aquí donde debe agregar caldo de pollo para que no se seque ni espese lo suficiente que no pueda remover con una cuchara de madera constantemente.
 
 <figure class="third">
-    <a href="/images/post_aji_gallina-10.jpg"><img src="/images/post_aji_gallina-10.jpg"></a>
-    <a href="/images/post_aji_gallina-11.jpg"><img src="/images/post_aji_gallina-11.jpg"></a>
-    <a href="/images/post_aji_gallina-13.jpg"><img src="/images/post_aji_gallina-13.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-10.jpg"><img src="{{ site.url }}/images/post_aji_gallina-10.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-11.jpg"><img src="{{ site.url }}/images/post_aji_gallina-11.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-13.jpg"><img src="{{ site.url }}/images/post_aji_gallina-13.jpg"></a>
     
 </figure>
 
 <figure>
-    <a href="/images/post_aji_gallina-12.jpg"><img src="/images/post_aji_gallina-12.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-12.jpg"><img src="{{ site.url }}/images/post_aji_gallina-12.jpg"></a>
 </figure>
 
 Finalmente, aquí vienen las emociones fuertes: agregue el pollo deshilachado, siga removiendo, adjunte el queso parmesano y finalmente las nueces picadas, siempre removiendo y agregando caldo si la mezcla se vuelve muy difícil de mover. 
@@ -118,16 +118,16 @@ Para servir, sirva arroz blanco, papas partidas hacia lo ancho en 3 o 4 pedazos 
 {: .notice}
 
 <figure class="half">
-    <a href="/images/post_aji_gallina-14.jpg"><img src="/images/post_aji_gallina-14.jpg"></a>
-    <a href="/images/post_aji_gallina-15.jpg"><img src="/images/post_aji_gallina-15.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-14.jpg"><img src="{{ site.url }}/images/post_aji_gallina-14.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-15.jpg"><img src="{{ site.url }}/images/post_aji_gallina-15.jpg"></a>
    
 </figure>
 
 <figure>
-    <a href="/images/post_aji_gallina-16.jpg"><img src="/images/post_aji_gallina-16.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-16.jpg"><img src="{{ site.url }}/images/post_aji_gallina-16.jpg"></a>
 </figure>
 
 <figure>
-    <a href="/images/post_aji_gallina-17.jpg"><img src="/images/post_aji_gallina-17.jpg"></a>
+    <a href="{{ site.url }}/images/post_aji_gallina-17.jpg"><img src="{{ site.url }}/images/post_aji_gallina-17.jpg"></a>
 </figure>
 
