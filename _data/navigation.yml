@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Sobre nosotros
+  url: /about
+  excerpt: 
+  image: feature_los_tres.jpg
+  
+- title: Recetas
+  url: /
+  excerpt: 
+  image: feature_cocina_peruana.jpg
+
+- title: Calendario
+  url: /calendar
+  excerpt:
+  image: feature_pan.jpg
+  
+- title: Preguntas
+  url: /faq
   excerpt:
   image:

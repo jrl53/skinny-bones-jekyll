@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Las recetas"
+image:
+  feature: feature_cocina_peruana_thin.jpg
 ---
 
 <div class="tiles">

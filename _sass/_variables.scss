@@ -6,7 +6,7 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
+$base-font                   	: 'Open Sans',Georgia,Times,"Times New Roman",serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
@@ -17,6 +17,9 @@ $doc-line-height             	: 24;
 
 $border-radius               	: 3px;
 
+//Jose Leon
+$heading-color                  : #111;
+
 /*
    Color variables
    ========================================================================== */
@@ -26,7 +29,7 @@ $black                        : #000;
 
 $body-color                  	: #ebebeb;
 
-$text-color                  	: #313130;
+$text-color                  	: #666666;
 $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;

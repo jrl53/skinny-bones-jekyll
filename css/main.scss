@@ -13,6 +13,8 @@ sitemap: false
 
 @import "variables";
 
+
+
 /*
    Vendor
    ========================================================================== */
@@ -29,6 +31,8 @@ sitemap: false
 @import "mixins";
 @import "reset";
 @import "base";
+
+
 
 /*
    Components
@@ -51,5 +55,7 @@ sitemap: false
 /*
    Page specific
    ========================================================================== */
+@import "page";
+//added by Jose Leon
 
 @import "layout";

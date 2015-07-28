@@ -1,4 +1,13 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Inicio
+  url: /
+
+- title: Recetas
+  url: /
+
+- title: Sobre nosotros
+  url: /about
+
+- title: Calendario
+  url: /calendar

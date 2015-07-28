@@ -13,7 +13,7 @@ body {
 }
 
 p {
-	@include font-size(18,yes,28);
+	@include font-size(17,yes,35);
 }
 
 li {
@@ -25,6 +25,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
 	text-rendering: optimizeLegibility; // Fix the character spacing for headings
+    color: $heading-color;
 }
 h1 {
 	@include font-size(36);

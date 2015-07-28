@@ -1,0 +1,108 @@
+/* ==========================================================================
+   Styles for rounded pictures
+   ========================================================================== */
+
+
+
+.article-author-side,
+.article-author-bottom,
+.article-author-center{
+	h3 {
+		margin-bottom: 0;
+	}
+	p {
+		font-size: 80%;
+		font-style: italic;
+	}
+	a, a:hover {
+		border-bottom: 0 solid transparent;
+	}
+}
+
+/*Prueba para about page*/
+.bio-photo {
+    max-width: 200px;
+    @include rounded(250px);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.article-author-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    .bio-photo {
+        max-width: 200px;
+        @include rounded(250px);
+    
+    }
+}
+
+
+/* Footer wrapper */
+.footer-wrap {
+	@include container;
+	@include clearfix;
+	clear: both;
+	padding-bottom: 3em;
+	a,
+	a:active,
+	a:visited,
+	p,
+	h4,
+	h5,
+	h6,
+	span { 
+		@include font-rem(14);
+	}
+	footer {
+		@include grid(12,10);
+		@include prefix(12,1);
+		@include suffix(12,1);
+        
+/*		@media #{$small} {
+			@include grid(12,6);
+			@include prefix(12,3);
+			@include suffix(12,3);
+		}
+		@media #{$x-large} {
+			@include grid(12,4.5);
+			@include prefix(12,4);
+			@include suffix(12,3.5);
+		}
+*/
+	}
+}
+
+/* Related articles list */
+.related-articles {
+	@include grid(12,10);
+	@include prefix(12,1);
+	@include suffix(12,1);
+	margin-bottom: 2em;
+	
+ /*   @media #{$small} {
+		@include grid(12,6);
+		@include prefix(12,3);
+		@include suffix(12,3);
+	}
+	@media #{$x-large} {
+		@include grid(12,4.5);
+		@include prefix(12,4);
+		@include suffix(12,3.5);
+	}
+*/
+	h4 {
+		text-transform: uppercase;
+		margin-bottom: 0;
+	}
+	li {
+		margin-bottom: 0;
+	}
+}
+
+
+

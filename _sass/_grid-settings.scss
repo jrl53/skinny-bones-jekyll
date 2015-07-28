@@ -13,3 +13,5 @@ $micro: new-breakpoint(min-width em(240) max-width em(480) 12);
 $small: new-breakpoint(min-width em(600) 12);
 $medium: new-breakpoint(min-width em(900) 12);
 $large: new-breakpoint(min-width em(1280) 12);
+//Jose Leon
+$x-large: new-breakpoint(min-width em(1300) 12);
