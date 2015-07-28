@@ -2,20 +2,20 @@
 
 - title: Sobre nosotros
   url: /about
-  excerpt: 
-  image: feature_los_tres.jpg
+  excerpt: Una pequeña reseña de cómo empezó esto
+  image: teaser_los_tres.jpg
   
 - title: Recetas
   url: /
-  excerpt: 
-  image: feature_cocina_peruana.jpg
+  excerpt: La gaveta con todas las recetas
+  image: teaser_cocina_peruana.jpg
 
 - title: Calendario
   url: /calendar
-  excerpt:
-  image: feature_pan.jpg
+  excerpt: Una lista aspiracional de lo que queremos cocinar
+  image: teaser_pan.jpg
   
 - title: Preguntas
   url: /faq
-  excerpt:
-  image:
+  excerpt: ¿De donde sacaron ese nombre?
+  image: teaser_aji.jpg
